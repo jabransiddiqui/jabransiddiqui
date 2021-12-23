@@ -1,7 +1,4 @@
-|  |  |
-|-|-|
-|<h1 align="center">Hi 👋, I'm Jabran Siddiqui</h1><h3 align="center">I am a Full Stack Mobile application developer, having experience of 4+ years in the industry.I’ve strong knowledge of mobile application development native(iOS & Android) and hybrid application using Flutter, besides mobile application development I also have a great eye on backend development using Node.js & C# .net. </h3>|<a href="https://app.daily.dev/jibransiddiqui"><img src="https://api.daily.dev/devcards/268919d11c244866987ea2a8358bb9fa.png?r=kwi" width="900" alt="Jabran SiddiQui's Dev Card"/></a>|
-
+<h1 align="center">Hi 👋, I'm Jabran Siddiqui</h1><h3 align="center">I am a Full Stack Mobile application developer, having experience of 4+ years in the industry.I’ve strong knowledge of mobile application development native(iOS & Android) and hybrid application using Flutter, besides mobile application development I also have a great eye on backend development using Node.js & C# .net. </h3>
 
 
 
