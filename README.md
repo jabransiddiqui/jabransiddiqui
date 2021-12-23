@@ -18,8 +18,8 @@ I’ve strong knowledge of mobile application development native(iOS & Android) 
 <h2>📱 Mobile Application Development</h2>
 
 
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<p><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> </p>
 
 ### 👨‍💻 Languages
 
