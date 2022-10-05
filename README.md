@@ -102,6 +102,9 @@
 <a href="https://github.com/jibransiddiqui/flutter_mvp">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jibransiddiqui&repo=flutter_mvp" />
 </a>
+<a href="https://github.com/jibransiddiqui/Generic-Electrical-Energy-Cost-Calculator">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jibransiddiqui&repo=flutter_mvp" />
+</a>
 <a href="https://github.com/jibransiddiqui/flutter_openalpr_swift">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jibransiddiqui&repo=flutter_openalpr_swift" />
 </a>
