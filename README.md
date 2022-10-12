@@ -2,7 +2,7 @@
 </br>
 <h1>👤 About Me </h1>
  
-  - 🔭 I’m currently working at [eShifa](https://eshifa.org) as  ***Senoir Software Developer***
+  - 🔭 I’m ***Senoir Software Developer***
 
 - 🌱 I’m currently learning **Backend development and devops**
 
