@@ -96,34 +96,34 @@
 <h1 align="left"> 📌 Pinned Repositories</h1>
 
 
-<a href="https://github.com/jibransiddiqui/weather">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jibransiddiqui&repo=weather" />
+<a href="https://github.com/jabransiddiqui/weather">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jabransiddiqui&repo=weather" />
 </a>
-<a href="https://github.com/jibransiddiqui/flutter_mvp">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jibransiddiqui&repo=flutter_mvp" />
+<a href="https://github.com/jabransiddiqui/flutter_mvp">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jabransiddiqui&repo=flutter_mvp" />
 </a>
-<a href="https://github.com/jibransiddiqui/Generic-Electrical-Energy-Cost-Calculator">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jibransiddiqui&repo=Generic-Electrical-Energy-Cost-Calculator" />
+<a href="https://github.com/jabransiddiqui/Generic-Electrical-Energy-Cost-Calculator">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jabransiddiqui&repo=Generic-Electrical-Energy-Cost-Calculator" />
 </a>
-<a href="https://github.com/jibransiddiqui/flutter_openalpr_swift">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jibransiddiqui&repo=flutter_openalpr_swift" />
+<a href="https://github.com/jabransiddiqui/flutter_openalpr_swift">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jabransiddiqui&repo=flutter_openalpr_swift" />
 </a>
 
 </br>
 <h1>🏆 Profile Views </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jibransiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="jibransiddiqui" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jibransiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="jabransiddiqui" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jibransiddiqui" alt="jibransiddiqui" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jabransiddiqui" alt="jabransiddiqui" /></a> </p>
 
 </br>
 <h1 align="left">🎯  Github Stats</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jibransiddiqui&show_icons=true&locale=en&layout=compact" alt="jibransiddiqui" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabransiddiqui&show_icons=true&locale=en&layout=compact" alt="jabransiddiqui" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jibransiddiqui&show_icons=true&locale=en" alt="jibransiddiqui" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jabransiddiqui&show_icons=true&locale=en" alt="jabransiddiqui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jibransiddiqui&" alt="jibransiddiqui" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jabransiddiqui&" alt="jabransiddiqui" /></p>
 
 
 
@@ -131,6 +131,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/jabran-siddiqui-a966a6149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jabran-siddiqui-a966a6149" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:9877379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:9877379" height="30" width="40" /></a>
-<a href="https://dribbble.com/jibransiddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jibransiddiqui" height="30" width="40" /></a>
+<a href="https://dribbble.com/jibransiddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jabransiddiqui" height="30" width="40" /></a>
 </p>
 
