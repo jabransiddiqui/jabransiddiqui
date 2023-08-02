@@ -109,10 +109,10 @@
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jabransiddiqui&repo=flutter_openalpr_swift" />
 </a>
 <a href="https://github.com/jabransiddiqui/RentReady-Flutter">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jabransiddiqui&repo=flutter_openalpr_swift" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jabransiddiqui&repo=RentReady-Flutter" />
 </a>
 <a href="https://github.com/jabransiddiqui/BackgroundGeoLocation">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jabransiddiqui&repo=flutter_openalpr_swift" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jabransiddiqui&repo=BackgroundGeoLocation" />
 </a>
 
 </br>
