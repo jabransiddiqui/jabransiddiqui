@@ -1,142 +1,237 @@
-<h1 align="center">Hi 👋, I'm Jabran Siddiqui</h1><h4 align="center">I am a Full Stack Mobile application developer, having experience of 6+ years in the industry. I’ve strong knowledge of mobile application development native(iOS & Android) and hybrid application using Flutter, besides mobile application development I also have a great eye on backend development using GoLang, Node.js & C#.</h4>
-</br>
-<h1>👤 About Me </h1>
- 
-  - 🔭 I’m ***Senior Software Developer***
+<div align="center">
 
-- 🌱 I’m currently learning **Backend development and devops**
+Hi 👋, I’m Jabran Siddiqui
 
-- 💬 Ask me about **Flutter, Dart, Swift, Java and Kotlin**
+Senior Mobile Engineer | iOS · Android · Kotlin Multiplatform
 
-- 📫 How to reach me **jabransiddiqui@outlook.com**
+Building scalable mobile platforms with modern native technologies, shared architecture, and Kotlin-powered backend services.
 
+</div>
 
-<h1>💼 Skill </h1>
-<h2>📱 Mobile Application Development</h2>
+⸻
 
+👨‍💻 About Me
 
-<p><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> </p>
+I’m a Senior Mobile Engineer with 9+ years of experience building and evolving production applications across iOS and Android.
 
-### 👨‍💻 Languages
-<p>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></p>
+My engineering journey started deeply in the Apple ecosystem with native iOS development and later expanded into Android, Flutter, Kotlin Multiplatform, and backend development.
 
+Today, my main focus is building scalable mobile platforms, designing maintainable architectures, modernizing legacy applications, and sharing business logic across platforms with Kotlin Multiplatform (KMP/KMM).
 
-<h2>Backend Development</h2>
-<p>
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></p>
+I work across the mobile stack — from SwiftUI and Jetpack Compose applications to shared Kotlin modules and Kotlin-based backend services using Spring Boot and Ktor.
 
-### 👩‍💻 Languages
-<p>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></p>
+I enjoy solving engineering problems where architecture, product thinking, performance, developer experience, and long-term maintainability all matter.
 
-### 🚀 Backend Frameworks
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"/></p>
+⸻
 
+🎯 What I Focus On
 
-### ☁️ Cloud
-<p>
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></p>
+* 🍎 Native iOS development with Swift, SwiftUI, UIKit, Combine & Swift Concurrency
+* 🤖 Android development with Kotlin & Jetpack Compose
+* 🔗 Shared architecture and business logic with Kotlin Multiplatform
+* ⚙️ Kotlin backend development with Spring Boot & Ktor
+* 🧩 Dependency injection and modular architecture with Koin
+* 🏗️ Mobile architecture, modularization and scalability
+* 🔄 Modernizing legacy mobile applications
+* ⚡ Application performance and maintainability
+* 🧪 Testable architecture and engineering best practices
+* 🤝 Collaboration across iOS, Android, backend, product and design teams
 
-### ⏱️ Workflow Platforms 
-<p>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></p>
+⸻
 
-### 👨‍💻 Project Management 
-<p>
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></p>
+📱 Mobile Engineering
 
-### ⚡ Database
-<p>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></p>
+🍎 iOS
 
-### 🖍 Design
-<p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
-<img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"/></p>
+Swift · SwiftUI · UIKit · Combine · Swift Concurrency
 
-### 👨‍💻 Source Control
-<p>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"/></p>
+My iOS work focuses on modern native development, scalable architecture, asynchronous programming, reusable components, and migrating existing applications toward modern Apple technologies.
 
-### 👨‍💻 IDE
-<p>
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></p>
+🤖 Android
 
-</br>
-<h1 align="left">📝 Other Languages and Tools</h1>
+Kotlin · Jetpack Compose · Coroutines · Flow
 
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+On Android, I work with modern Kotlin-based development and declarative UI using Jetpack Compose, with an emphasis on maintainable architecture and clean asynchronous data flows.
 
-</br>
-<h1 align="left"> 📌 Pinned Repositories</h1>
+🔗 Kotlin Multiplatform
 
+Kotlin Multiplatform · KMM · Coroutines · Koin
 
-<a href="https://github.com/jabransiddiqui/weather">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jabransiddiqui&repo=weather" />
-</a>
-<a href="https://github.com/jabransiddiqui/flutter_mvp">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jabransiddiqui&repo=flutter_mvp" />
-</a>
-<a href="https://github.com/jabransiddiqui/Generic-Electrical-Energy-Cost-Calculator">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jabransiddiqui&repo=Generic-Electrical-Energy-Cost-Calculator" />
-</a>
-<a href="https://github.com/jabransiddiqui/flutter_openalpr_swift">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jabransiddiqui&repo=flutter_openalpr_swift" />
-</a>
-<a href="https://github.com/jabransiddiqui/RentReady-Flutter">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jabransiddiqui&repo=RentReady-Flutter" />
-</a>
-<a href="https://github.com/jabransiddiqui/BackgroundGeoLocation">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jabransiddiqui&repo=BackgroundGeoLocation" />
-</a>
+A major area of my current focus is Kotlin Multiplatform, sharing business logic and architecture across iOS and Android while preserving high-quality native user experiences.
 
-</br>
-<h1>🏆 Profile Views </h1>
+I’m particularly interested in finding the right boundaries between shared and platform-specific code rather than simply maximizing code sharing.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jibransiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="jabransiddiqui" /> </p>
+💙 Cross-Platform Experience
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jabransiddiqui" alt="jabransiddiqui" /></a> </p>
+Flutter · Dart
 
-</br>
-<h1 align="left">🎯  Github Stats</h1>
+I also have experience building production applications with Flutter, which gives me perspective across native, cross-platform, and multiplatform approaches to mobile development.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jabransiddiqui&show_icons=true&locale=en&layout=compact" alt="jabransiddiqui" /></p>
+⸻
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jabransiddiqui&show_icons=true&locale=en" alt="jabransiddiqui" /></p>
+⚙️ Backend Engineering
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jabransiddiqui&" alt="jabransiddiqui" /></p>
+Alongside mobile engineering, I work with Kotlin-based backend development, building services and APIs that support modern applications and mobile platforms.
 
+Kotlin Backend
 
+Kotlin · Spring Boot · Ktor · Koin
 
-<h1 align="left">📣 Connect with me</h1>
-<p align="left">
-<a href="https://www.linkedin.com/in/jabran-s-a966a6149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jabran-s-a966a6149" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:9877379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:9877379" height="30" width="40" /></a>
-<a href="https://dribbble.com/jibransiddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jabransiddiqui" height="30" width="40" /></a>
-</p>
+APIs & Services
 
+REST · GraphQL · JSON · Authentication
+
+I also have previous experience working with technologies including:
+
+Node.js · TypeScript · .NET · C#
+
+My backend experience complements my mobile work and helps me think about systems end-to-end — from backend services and APIs to shared business logic and native mobile experiences.
+
+⸻
+
+🏗️ Architecture & Engineering
+
+Some of the engineering areas I’m particularly interested in:
+
+Mobile Architecture
+
+Designing modular, testable and maintainable applications that can evolve as products and engineering teams grow.
+
+Platform Modernization
+
+Incrementally moving legacy applications toward SwiftUI, Swift Concurrency, Jetpack Compose, Kotlin Multiplatform, and modern architectural patterns without unnecessary rewrites.
+
+Multiplatform Architecture
+
+Determining what should be shared between platforms and what should remain native — balancing reuse with platform-specific user experience.
+
+Developer Experience
+
+Improving project structure, build workflows, CI/CD, testing, documentation and engineering practices that make mobile teams more productive.
+
+Technical Leadership
+
+Contributing to architecture decisions, engineering standards, code quality, technical direction and collaboration across teams.
+
+⸻
+
+🛠️ Technology Stack
+
+Languages
+
+Swift · Kotlin · Dart · Java · TypeScript · C#
+
+Apple
+
+SwiftUI · UIKit · Combine · Swift Concurrency · Xcode
+
+Android
+
+Jetpack Compose · Android SDK · Coroutines · Flow · Android Studio
+
+Multiplatform
+
+Kotlin Multiplatform · KMM · Koin · Flutter
+
+Backend
+
+Spring Boot · Ktor · Node.js · .NET · REST · GraphQL
+
+Data & Cloud
+
+Firebase · SQLite · MySQL · AWS
+
+Engineering & DevOps
+
+Git · GitHub · Bitbucket · Jenkins · Docker · CI/CD · Jira
+
+⸻
+
+🔬 What I’m Exploring
+
+I’m continuously exploring better ways to build and scale mobile platforms, particularly around:
+
+* Kotlin Multiplatform architecture
+* Compose Multiplatform
+* SwiftUI architecture
+* Swift Concurrency
+* Jetpack Compose
+* Kotlin Coroutines & Flow
+* Kotlin backend development
+* Mobile modularization
+* Cross-platform architecture
+* Testing strategies
+* Developer tooling
+* Mobile CI/CD
+
+⸻
+
+📌 Featured Projects
+
+My GitHub includes projects from different stages of my engineering journey.
+
+I’m currently evolving this space toward more examples around modern mobile architecture, Kotlin Multiplatform, SwiftUI, Jetpack Compose, and Kotlin backend development.
+
+🔗 Kotlin Multiplatform
+
+Architecture and experimentation around sharing domain logic, networking, data layers and application infrastructure between iOS and Android.
+
+🍎 Modern iOS
+
+Exploring modern iOS architecture with SwiftUI, Swift Concurrency, modularization and testable application design.
+
+🤖 Modern Android
+
+Modern Android development using Kotlin, Jetpack Compose, Coroutines and Flow.
+
+⚙️ Kotlin Backend
+
+Backend services and API development using Kotlin, Spring Boot, Ktor and Koin.
+
+⸻
+
+🧠 Engineering Philosophy
+
+I believe good software architecture isn’t about introducing the most abstractions — it’s about making systems easier to understand, change, test and scale.
+
+For mobile platforms, I particularly value:
+
+Maintainability over cleverness
+
+Clear boundaries over unnecessary abstraction
+
+Native user experience over maximum code sharing
+
+Incremental modernization over unnecessary rewrites
+
+Engineering decisions driven by product needs
+
+⸻
+
+🌱 Looking Ahead
+
+I’m especially interested in opportunities and engineering challenges involving:
+
+Mobile Architecture · Platform Engineering · Kotlin Multiplatform · iOS · Android · Kotlin Backend · Technical Leadership
+
+I enjoy environments where engineers work closely with product and design, have ownership over technical decisions, and continuously improve how software is built.
+
+⸻
+
+🤝 Connect With Me
+
+I’m always happy to connect and discuss mobile engineering, Kotlin Multiplatform, iOS, Android, Kotlin backend development, architecture, and engineering leadership.
+
+💼 LinkedIn
+
+📧 Email
+
+⸻
+
+<div align="center">
+
+Thanks for visiting 👋
+
+Building better mobile platforms, one architecture decision at a time.
+
+</div>
