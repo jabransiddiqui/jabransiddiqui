@@ -22,15 +22,17 @@ shared architecture, and Kotlin-powered backend services.
 
 ⸻
 
-About
+About Me
 
 I’m a Senior Mobile Engineer with 9+ years of experience building and evolving production applications across iOS and Android.
 
 My work focuses on mobile architecture, Kotlin Multiplatform, platform modernization, performance, and maintainable application development.
 
-I started with native iOS engineering and expanded into Android, Flutter, Kotlin Multiplatform, and Kotlin backend development. Today, I work across the mobile platform — from SwiftUI and Jetpack Compose to shared Kotlin modules and backend services built with Spring Boot and Ktor.
+I started with native iOS engineering and later expanded into Android, Flutter, Kotlin Multiplatform, and Kotlin backend development.
 
-I particularly enjoy solving problems around architecture, scalability, developer experience, and long-term maintainability.
+Today, I work across the mobile platform — from SwiftUI and Jetpack Compose to shared Kotlin modules and backend services built with Spring Boot and Ktor.
+
+I enjoy solving engineering problems around architecture, scalability, developer experience, performance, and long-term maintainability.
 
 ⸻
 
@@ -68,8 +70,9 @@ Kotlin Multiplatform
 
 * Kotlin Multiplatform / KMM
 * Shared business logic
-* Shared data & domain layers
+* Shared domain & data layers
 * Coroutines
+* Flow
 * Koin
 
 </td>
@@ -153,18 +156,31 @@ Mobile Platform
 Engineering Focus
 
 Mobile Architecture
+
 Designing modular, testable, and maintainable mobile systems that can evolve as products and engineering teams grow.
 
 Kotlin Multiplatform
-Sharing the right business and application logic across iOS and Android while preserving native platform experiences.
+
+Sharing the right business and application logic across iOS and Android while preserving strong native platform experiences.
 
 Platform Modernization
+
 Incrementally evolving established applications toward SwiftUI, Swift Concurrency, Jetpack Compose, Kotlin Multiplatform, and modern architectural patterns.
 
 Kotlin Backend
+
 Building services and APIs using Kotlin, Spring Boot, Ktor, and Koin.
 
+Performance & Scalability
+
+Building applications that remain reliable, responsive, and maintainable as products and engineering teams scale.
+
+Developer Experience
+
+Improving project structure, build workflows, CI/CD, testing, documentation, and engineering practices.
+
 Technical Leadership
+
 Contributing to architecture decisions, engineering standards, code quality, developer experience, and technical direction across mobile teams.
 
 ⸻
@@ -178,6 +194,7 @@ Current Interests
   <code>Swift Concurrency</code>
   <code>Jetpack Compose</code>
   <code>Coroutines</code>
+  <code>Flow</code>
   <code>Compose Multiplatform</code>
   <code>Kotlin Backend</code>
   <code>Platform Modernization</code>
@@ -206,7 +223,7 @@ Modern iOS
 
 Modern native iOS architecture with declarative UI and structured concurrency.
 
-Swift SwiftUI Concurrency
+Swift SwiftUI Swift Concurrency
 
 </td>
 </tr>
@@ -217,7 +234,7 @@ Modern Android
 
 Modern Android architecture with declarative UI and reactive data flows.
 
-Kotlin Compose Coroutines Flow
+Kotlin Jetpack Compose Coroutines Flow
 
 </td>
 <td width="50%" valign="top">
@@ -226,7 +243,7 @@ Kotlin Backend
 
 Kotlin-based services and APIs supporting modern applications.
 
-Spring Boot Ktor Koin REST
+Kotlin Spring Boot Ktor Koin
 
 </td>
 </tr>
@@ -236,7 +253,7 @@ Spring Boot Ktor Koin REST
 
 Engineering Principles
 
-Build systems that are easy to understand, change, test, and scale.
+Good architecture should make software easier to understand, change, test, and scale.
 
 * Maintainability over cleverness
 * Clear boundaries over unnecessary abstraction
@@ -252,7 +269,24 @@ I also have experience with:
 
 Flutter · Dart · Java · Node.js · TypeScript · .NET · C# · Firebase · MySQL · SQLite
 
-These technologies are part of my broader engineering background, while my current focus remains native mobile engineering, Kotlin Multiplatform, architecture, and Kotlin backend development.
+These technologies are part of my broader engineering background, while my current focus remains native mobile engineering, Kotlin Multiplatform, mobile architecture, and Kotlin backend development.
+
+⸻
+
+Currently Exploring
+
+* Kotlin Multiplatform architecture
+* Compose Multiplatform
+* SwiftUI architecture
+* Swift Concurrency
+* Jetpack Compose
+* Kotlin Coroutines & Flow
+* Kotlin backend architecture
+* Mobile modularization
+* Platform modernization
+* Testing strategies
+* Developer tooling
+* Mobile CI/CD
 
 ⸻
 
@@ -265,7 +299,9 @@ I’m always interested in conversations around mobile architecture, Kotlin Mult
 <a href="https://www.linkedin.com/in/jabran-s-a966a6149">
   <img src="https://img.shields.io/badge/LinkedIn-Jabran_Siddiqui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="mailto:jabransiddiqui@outlook.com">
   <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
